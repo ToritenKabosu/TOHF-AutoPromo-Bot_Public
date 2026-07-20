@@ -2,7 +2,7 @@
 
 This Privacy Policy explains how **TOHF-AutoPromo-Bot** ("the Bot"), which operates in conjunction with the Among Us mod [**TownOfHost-Fun**](https://github.com/ToritenKabosu/TownOfHost-Fun) ("TOH-F"), collects, manages, and uses user information.
 
-## 1. Information Collected, Purpose of Use, and Collection Method
+## 1. Information Collected, and Purpose of Use
 
 To provide its services, the Bot automatically collects and stores the following information, either through user input or during normal operation.
 
