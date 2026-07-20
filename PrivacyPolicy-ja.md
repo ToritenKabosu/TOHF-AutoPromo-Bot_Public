@@ -1,6 +1,6 @@
 # プライバシーポリシー
 本プライバシーポリシーは、Among UsのModである[TownOfHost-Fun](https://github.com/ToritenKabosu/TownOfHost-Fun)(以下「TOH-F」)と連携して動作するDiscord Bot「TOHF-AutoPromo-Bot」(以下「本Bot」)において、利用者の情報をどのように取得、管理、利用するかを定めるものです。
-## 1.取得する情報、利用目的、および取得方法
+## 1.取得する情報、および利用目的
 本Botは、サービスの提供にあたり、以下の情報を自動的または利用者の入力によって取得および保存します。<br/>
 ### Discordに関する情報
 - **本Botが参加しているサーバーのID**: メッセージを送信するため
